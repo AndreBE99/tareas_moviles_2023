@@ -1,4 +1,4 @@
-# Tarea 4 - Crypto looK
+# Tarea 4 - Crypto look
 
 - List View.
 - List Tile.
