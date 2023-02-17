@@ -21,7 +21,7 @@ class _ExchangesState extends State<Exchanges> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Home Page'),
+        title: Text('Exchanges'),
       ),
       body: ListView.separated(
         itemCount: exchanges.length,
