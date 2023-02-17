@@ -16,10 +16,11 @@
 
 ## Screenshots de la app
 
-![Home Page](/images/home_page.png)
-![Rates Page](/images/rates_page.png)
-![Exchanges Page](/images/exchanges_page.png)
-![Trending Page](/images/trending_page.png)
+<img src="images/home_page.png" alt="home page" width="250" height="400">
+<img src="images/drawer_menu.png" alt="drawer menu" width="250" height="400">
+<img src="images/rates_page.png" alt="rates page" width="250" height="400">
+<img src="images/exchanges_page.png" alt="exchanges page" width="250" height="400">
+<img src="images/trending_page.png" alt="trending page" width="250" height="400">
 
 ## Criterio de evaluación
 
