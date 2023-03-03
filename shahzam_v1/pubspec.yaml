@@ -1,0 +1,40 @@
+name: shahzam_v1
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  feature_discovery: ^0.14.1
+  cupertino_icons: ^1.0.2
+  flutter_bloc: ^8.1.1
+  flutter_ripple: ^0.0.3
+  equatable: ^2.0.5
+  flutter_gen: ^5.0.1
+  record: ^4.4.4
+  http: ^0.13.5
+  path_provider: ^2.0.11
+  flutter_dotenv: ^5.0.2
+  url_launcher: ^6.1.10
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "images/bocina.png "
+
+flutter:
+  uses-material-design: true
+  assets:
+    - .env
+    - images/
