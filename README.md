@@ -35,15 +35,14 @@ https://youtu.be/OoXzti7RhfA
 
 ## Criterio de evaluación
 
-| Criterio                                                                                                                               | Puntos Totales | Puntos Obtenidos |                                 Observaciones |
-| :------------------------------------------------------------------------------------------------------------------------------------- | :------------: | :--------------: | --------------------------------------------: |
-| La app utiliza como color principal el verde.                                                                                          |       10       |        10        |                                               |
-| La app cuenta con Text fields decorados similares a los de los screenshots en la descripción de la tarea.                              |       10       |        10        |                                               |
-| Al presionar los TextFields se muestra el teclado numérico.                                                                            |       10       |        10        |                                               |
-| La selección de los radios solamente permite una opción a la vez.                                                                      |       25       |        25        |                                               |
-| Al presionar el botón de calcular se ejecutan los cálculos necesarios y el total se actualiza únicamente con dos decimales.            |       15       |        10        | El valor se actualiza pero no con 2 decimales |
-| Al activar la opción de redondeo y presionar el botón de calcular el total debe redondear hacia arriba a número cerrado sin decimales. |       20       |        20        |                                               |
-| Link al repositorio de github, bitbucket o similar.                                                                                    |       7        |        7         |                                               |
-| Link a video de app funcionando.                                                                                                       |       3        |        3         |                                               |
-
-| Extras: Se muestra al usuario un diálogo de advertencia si los TextFields se encuentran vacíos y el usuario presiona el botón de calcular. | 3 | 3 | |
+| Criterio                                                                                                                                   | Puntos Totales | Puntos Obtenidos |                                 Observaciones |
+| :----------------------------------------------------------------------------------------------------------------------------------------- | :------------: | :--------------: | --------------------------------------------: |
+| La app utiliza como color principal el verde.                                                                                              |       10       |        10        |                                               |
+| La app cuenta con Text fields decorados similares a los de los screenshots en la descripción de la tarea.                                  |       10       |        10        |                                               |
+| Al presionar los TextFields se muestra el teclado numérico.                                                                                |       10       |        10        |                                               |
+| La selección de los radios solamente permite una opción a la vez.                                                                          |       25       |        25        |                                               |
+| Al presionar el botón de calcular se ejecutan los cálculos necesarios y el total se actualiza únicamente con dos decimales.                |       15       |        10        | El valor se actualiza pero no con 2 decimales |
+| Al activar la opción de redondeo y presionar el botón de calcular el total debe redondear hacia arriba a número cerrado sin decimales.     |       20       |        20        |                                               |
+| Link al repositorio de github, bitbucket o similar.                                                                                        |       7        |        7         |                                               |
+| Link a video de app funcionando.                                                                                                           |       3        |        3         |                                               |
+| Extras: Se muestra al usuario un diálogo de advertencia si los TextFields se encuentran vacíos y el usuario presiona el botón de calcular. |       3        |        3         |                                               |
