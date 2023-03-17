@@ -46,5 +46,4 @@ https://youtu.be/OoXzti7RhfA
 | Link al repositorio de github, bitbucket o similar.                                                                                    |       7        |        7         |                                               |
 | Link a video de app funcionando.                                                                                                       |       3        |        3         |                                               |
 
-| Extras:
-Se muestra al usuario un diálogo de advertencia si los TextFields se encuentran vacíos y el usuario presiona el botón de calcular. | 3 | 3 | |
+| Extras: Se muestra al usuario un diálogo de advertencia si los TextFields se encuentran vacíos y el usuario presiona el botón de calcular. | 3 | 3 | |
