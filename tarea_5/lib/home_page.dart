@@ -67,7 +67,27 @@ class HomePage extends StatelessWidget {
           MaterialButton(
             child: Text("CALCULATE"),
             onPressed: () {
-              context.read<TipTimeProvider>().tipcalculation();
+              if (context.read<TipTimeProvider>().costController.text.isEmpty) {
+                showDialog(
+                  context: context,
+                  builder: (BuildContext context) {
+                    return AlertDialog(
+                      title: Text("Advertencia"),
+                      content: Text("Por favor, ingrese un valor."),
+                      actions: [
+                        TextButton(
+                          child: Text("OK"),
+                          onPressed: () {
+                            Navigator.of(context).pop();
+                          },
+                        )
+                      ],
+                    );
+                  },
+                );
+              } else {
+                context.read<TipTimeProvider>().tipcalculation();
+              }
             },
           ),
           Text(
